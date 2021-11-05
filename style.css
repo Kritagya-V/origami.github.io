@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+}
+#Imgs{
+	height: 700px;
+	background-color: #bf3c37;
+}
+#Img1{
+	height: 200px;
+	width: 300px;
+}
+#Img2{
+	height: 200px;
+	width: 300px;
+}
+#Mail{
+	background-color: purple;
+}
